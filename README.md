@@ -1,4 +1,8 @@
 Team Name: Innvators Unplugged
+Manas Singh Makhja(Team Leader)
+Mayank Billore
+Margana Jain
+Prashant Pawar
 
 Problem Statement:
 StackIt – A Minimal Q&A Forum Platform
@@ -58,3 +62,8 @@ Clicking the icon opens a dropdown with recent notifications.
 
 
 Email:manassinghmakhija@gmail.com
+mayankbillore10@gmail.com
+singhaimargana@gmail.com
+rajputprashant939@gmail.com
+
+Video URL : https://drive.google.com/file/d/1MC-ZdM0S9cqdRpVWQ0Eh2XOTkcvZRGXZ/view?usp=drivesdk
